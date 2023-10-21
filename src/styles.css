@@ -5,4 +5,9 @@
   box-sizing: border-box;
   color: #fff;
   background-color: #111;
+  font-family: 'Lato', sans-serif;
+}
+
+a {
+  text-decoration: none;
 }
